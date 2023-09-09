@@ -4,15 +4,15 @@
 Hi! My name is Julia. 
 
 I used to work in retail for more than 15 years. I am grateful to this period for the experience of working in completely different teams. During this period I learned to manage processes, people and time, to train people, to explain complex things in simple words, to perform in public.
-I am really passionate about testing and the versatility of the profession, so I made a conscious transition from one sphere to another. At the moment I'm  fully focused on my studies.
-I've taken a several courses, I'm currently self-studying, and I'm also improving my English.
+I am really passionate about testing and the versatility of the profession, so I made a conscious transition from one sphere to another. 
+At the moment I am interning on several projects, continuing to add to my knowledge and improve my English. And I am on the lookout for work and new opportunities.
 
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![IDEA](https://img.shields.io/badge/intellijidea-FECC00.svg?style=for-the-badge&logo=IDEA&logoColor=white)
+![Jmeter](https://img.shields.io/badge/apachejmeter-D22128.svg?style=for-the-badge&logo=JMeter&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <div>
@@ -31,6 +31,7 @@ I've taken a several courses, I'm currently self-studying, and I'm also improvin
   - Docker
   - Git
   - Postman
+  - JMeter
   - Jira
   - Java
   - Allure
