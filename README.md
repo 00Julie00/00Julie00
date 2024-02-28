@@ -1,5 +1,9 @@
+<div style="width:743px">
 
-
+<img style="border-width: thin;
+    border-color: white;
+    border-style: solid;" src="https://github.com/00Julie00/00Julie00/blob/main/hello-world.gif"/>
+    
 # Let's get introduced 👋
 Hi! My name is Julia. 
 
