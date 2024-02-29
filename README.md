@@ -46,9 +46,9 @@
 <h2>Github Statistics🏆</h2>
 <div>
 <div width="100%" align="left">
-     <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=00Julie00&bg_color=25,B53BC4,EF8B59&title_color=fff&text_color=fff&cache_seconds=14400" alt="github stats"/>
+     <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=00Julie00&bg_color=25,B53BC4,EF8B59&title_color=fff&text_color=fff&cache_seconds=14400" alt="github stats"/>
 
-  <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Julie00&show_icons=true&count_private=false&layout=compact&bg_color=70,EF8B59,B53BC4&title_color=fff&text_color=fff&hide=css,scss,html&exclude_repo=xamarin-tutorial&cache_seconds=14400"/>
+  <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Julie00&show_icons=true&count_private=false&layout=compact&bg_color=70,EF8B59,B53BC4&title_color=fff&text_color=fff&hide=css,scss,html&exclude_repo=xamarin-tutorial&cache_seconds=14400"/>
   </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <div width="100%" align="left"> 
